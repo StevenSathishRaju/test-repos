@@ -1,2 +1,2 @@
 # test-repos
-my simple project
+my simple project.
